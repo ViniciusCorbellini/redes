@@ -1,0 +1,6 @@
+{
+    "actuator_light_meetroom": "off",
+    "sensor_airtemp_meetroom": 0.0,
+    "sensor_airhumid_meetroom": 0.0,
+    "actuator_airtemp_guarita": 23.0
+}

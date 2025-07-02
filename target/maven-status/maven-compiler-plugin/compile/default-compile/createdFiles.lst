@@ -1,5 +1,4 @@
 com\mycompany\trabalho_redes\parte1\model\NetworkHandler.class
-com\mycompany\trabalho_redes\parte3\client\Main.class
 com\mycompany\trabalho_redes\parte2\server\ClientHandler.class
 com\mycompany\trabalho_redes\parte2\server\Server.class
 com\mycompany\trabalho_redes\parte3\server\UDPServer.class
@@ -18,8 +17,9 @@ com\mycompany\trabalho_redes\parte2\client\Client.class
 com\mycompany\trabalho_redes\parte1\Main.class
 com\mycompany\trabalho_redes\parte2\util\FileUtils.class
 com\mycompany\trabalho_redes\parte3\server\RequestHandler.class
-com\mycompany\trabalho_redes\parte3\client\GUI$6.class
+com\mycompany\trabalho_redes\parte3\client\ClientMain.class
 com\mycompany\trabalho_redes\parte3\server\DeviceStatus.class
 com\mycompany\trabalho_redes\parte3\client\Controller.class
 com\mycompany\trabalho_redes\parte3\server\ServerMain.class
 com\mycompany\trabalho_redes\parte1\util\JsonUtil.class
+com\mycompany\trabalho_redes\parte3\common\Constants.class
